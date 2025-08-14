@@ -6,9 +6,9 @@ I build tools that turn data into insights, automate workflows, and power decent
 ---
 
 ## 🔥 Featured Projects
-- [**ctScreener**](https://github.com/yourusername/ctscreener) — Crypto Twitter Screener for KOL tracking & token trend analytics  
-- [**PolinaOS Dashboard**](https://github.com/yourusername/polinaos-dashboard) — AI-powered community task creation & reward distribution  
-- [**Bubble Bridge**](https://github.com/yourusername/bubble-bridge) — Cross-chain HTLC swaps between Sui & EVM  
+- [**ctScreener**](https://github.com/degenshoyu/ctscreener) — Crypto Twitter Screener for KOL tracking & token trend analytics  
+- [**PolinaOS Dashboard**](https://github.com/degenshoyu/polinaos-dashboard) — AI-powered community task creation & reward distribution  
+- [**Bubble Bridge**](https://github.com/degenshoyu/bubble-bridge) — Cross-chain HTLC swaps between Sui & EVM  
 - **Twitter Scanner API** (Private) — Real-time tweet & retweeter data collection at scale
 
 ---
@@ -24,16 +24,10 @@ I build tools that turn data into insights, automate workflows, and power decent
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Email](https://img.shields.io/badge/Email-hello@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuyong-yang/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShoyuRamener)
+[![Email](https://img.shields.io/badge/Email-hello@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:degenshushu@gmail.com)
 
 ---
 
