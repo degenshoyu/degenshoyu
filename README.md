@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ShuShu Oleg
+# 👋 Hi, I'm Shoyu
 
 🚀 **Full-stack Developer | Data Engineer | DevOps Enthusiast | Web3 Builder**  
 I build tools that turn data into insights, automate workflows, and power decentralized apps.
