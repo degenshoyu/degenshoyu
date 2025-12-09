@@ -9,7 +9,7 @@ I build tools that turn data into insights, automate workflows, and power decent
 - [**ctScreener**](https://github.com/degenshoyu/ctscreener) — Crypto Twitter Screener for KOL tracking & token trend analytics  
 - [**PolinaOS Dashboard**](https://github.com/degenshoyu/polinaos-dashboard) — AI-powered community task creation & reward distribution  
 - [**Bubble Bridge**](https://github.com/degenshoyu/bubble-bridge) — Cross-chain HTLC swaps between Sui & EVM  
-- [**Twitter Scanner API**] (https://github.com/degenshoyu/twitter-scanner-public) — Real-time tweet & retweeter data collection at scale
+- [**Twitter Scanner API**](https://github.com/degenshoyu/twitter-scanner-public) — Real-time tweet & retweeter data collection at scale
 
 ---
 
